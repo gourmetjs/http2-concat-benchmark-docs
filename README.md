@@ -17,7 +17,7 @@
  9 | 1,442ms |   746ms |   493ms |   590ms |
 10 | 1,407ms |   444ms |   462ms |   427ms |
 
-[[https://github.com/gourmetjs/http2-concat-benchmark-doc/blob/master/images/n_california.png|alt=US West (N. California)]]
+![US West (N. California)](https://github.com/gourmetjs/http2-concat-benchmark-doc/blob/master/images/n_california.png)
 
 #### Between San Jose and US East (N. Virginia)
 
