@@ -1,4 +1,4 @@
-# This is repo contains images and tables linked by [this article](example.com).
+This is repo contains images and tables linked by [this article](example.com).
 
 ## HTTP/2 Results
 
