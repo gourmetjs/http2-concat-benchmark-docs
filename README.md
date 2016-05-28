@@ -1,4 +1,4 @@
-This is repo contains images and tables linked by [this article](example.com).
+This is repo contains images and tables used in [this article](https://medium.com/@asyncmax/the-right-way-to-bundle-your-assets-for-faster-sites-over-http-2-437c37efe3ff#.f2rresdtt).
 
 ## HTTP/2 Results
 
