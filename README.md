@@ -17,7 +17,7 @@
  9 | 1,442ms |   746ms |   493ms |   590ms |
 10 | 1,407ms |   444ms |   462ms |   427ms |
 
-![US West (N. California)](https://github.com/gourmetjs/http2-concat-benchmark-doc/blob/master/images/n_california.png)
+![US West (N. California)](https://github.com/gourmetjs/http2-concat-benchmark-docs/blob/master/images/n_california.png)
 
 #### Between San Jose and US East (N. Virginia)
 
@@ -34,7 +34,7 @@
  9 | 2,169ms | 1,404ms | 1,917ms | 2,159ms |
 10 | 3,395ms | 4,072ms | 2,317ms | 3,095ms |
 
-[[https://github.com/gourmetjs/http2-concat-benchmark-doc/blob/master/images/n_virginia.png|alt=US East (N. Virginia)]]
+![US East (N. Virginia)](https://github.com/gourmetjs/http2-concat-benchmark-docs/blob/master/images/n_virginia.png)
 
 #### Between San Jose and Asia Pacific (Seoul)
 
@@ -51,11 +51,11 @@
  9 | 5,771ms | 4,374ms | 1,898ms | 1,716ms |
 10 | 2,531ms | 2,669ms | 2,351ms | 2,505ms |
 
-[[https://github.com/gourmetjs/http2-concat-benchmark-doc/blob/master/images/seoul.png|alt=Asia Pacific (Seoul)]]
+![Asia Pacific (Seoul)](https://github.com/gourmetjs/http2-concat-benchmark-docs/blob/master/images/seoul.png)
 
 ## HTTP/1.1 Results
 
-**US West (N. California)**
+#### US West (N. California)
 
  # |    1000 |      50 |       6 |       1 |
 --:|--------:|--------:|--------:|--------:|
@@ -65,7 +65,7 @@
  4 | 5,715ms |   540ms |   273ms |   241ms |
  5 | 5,441ms |   469ms |   235ms |   259ms |
 
-**US East (N. Virginia)**
+#### US East (N. Virginia)
 
  # |     1000 |      50 |       6 |       1 |
 --:|---------:|--------:|--------:|--------:|
@@ -75,7 +75,7 @@
  4 | 15,865ms |   756ms |   426ms |   894ms |
  5 | 16,367ms |   951ms |   436ms |   937ms |
 
-**Asia Pacific (Seoul)**
+#### Asia Pacific (Seoul)
 
  # |     1000 |      50 |       6 |       1 |
 --:|---------:|--------:|--------:|--------:|
