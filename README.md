@@ -1,4 +1,4 @@
-This is repo contains images and tables used in [this article](https://medium.com/@asyncmax/the-right-way-to-bundle-your-assets-for-faster-sites-over-http-2-437c37efe3ff).
+This is repo contains images and tables used in [this article](http://gourmetjs.com/blog/http2/2016/05/30/http2-bundling.html).
 
 ## HTTP/2 Results
 
